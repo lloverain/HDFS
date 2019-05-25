@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="paoding-analysis">
+    <CLASSES>
+      <root url="jar:///opt/paoding/lib/commons-logging.jar!/" />
+      <root url="jar:///opt/paoding/lib/lucene-core-2.2.0.jar!/" />
+      <root url="jar:///opt/paoding/lib/lucene-highlighter-2.2.0.jar!/" />
+      <root url="jar:///opt/paoding/paoding-analysis.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
